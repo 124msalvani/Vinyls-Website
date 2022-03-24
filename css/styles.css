@@ -1,0 +1,24 @@
+.hiphop {
+  font-family: 'League Gothic', sans-serif;
+}
+.clsc-hiphop {
+  font-family: 'Alfa Slab One', cursive;
+}
+.indie {
+  font-family: 'Smokum', cursive;
+}
+.rock {
+  font-family: 'Abril Fatface', cursive;
+}
+.rnb {
+  font-family: 'League Gothic', sans-serif;
+}
+.funk {
+  font-family: 'Palette Mosaic', cursive;
+}
+body {
+  background-color: #E8D3B9;
+}
+.border-3 {
+  border-color: #011638!important;
+}
