@@ -21,6 +21,10 @@ body {
   background-color: #E8D3B9;
 }
 
+h1{
+  font-size: 100px;
+}
+
 .border-3 {
   border-color: #011638;
 }
