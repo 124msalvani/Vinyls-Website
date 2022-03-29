@@ -1,4 +1,11 @@
 
+.has-bg-img{
+  background: url(..imgs/indievinyl5.jpg) no-repeat center center fixed;
+  border-color: #904e55;
+  border-width: 20px;
+  border-radius: 20px;
+}
+
 .hiphop {
   font-family: 'League Gothic', sans-serif;
 }
