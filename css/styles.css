@@ -6,6 +6,10 @@
   border-radius: 20px;
 }
 
+.img-fluid{
+  padding: 40px;
+}
+
 .hiphop {
   font-family: 'League Gothic', sans-serif;
 }
