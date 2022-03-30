@@ -1,11 +1,4 @@
 
-.has-bg-img{
-  background: url(..imgs/indievinyl5.jpg) no-repeat center center fixed;
-  border-color: #904e55;
-  border-width: 20px;
-  border-radius: 20px;
-}
-
 .hiphop {
   font-family: 'League Gothic', sans-serif;
 }
@@ -27,17 +20,12 @@
 body {
   background-color: #E8D3B9;
 }
-
-h1{
-  font-size: 100px;
-}
-
 .border-3 {
   border-color: #011638;
 }
 
-font-family: 'Abril Fatface', cursive;
+/* font-family: 'Abril Fatface', cursive;
 font-family: 'Alfa Slab One', cursive;
 font-family: 'League Gothic', sans-serif;
 font-family: 'Palette Mosaic', cursive;
-font-family: 'Smokum', cursive;
+font-family: 'Smokum', cursive; */
