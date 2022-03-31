@@ -25,20 +25,18 @@
 .funk {
   font-family: 'Palette Mosaic', cursive;
 }
+.home {
+  font-family: 'Rajdhani', sans-serif;
+}
 body {
   background-color: #E8D3B9;
 }
-
-h1{
-  font-size: 100px;
-}
-
 .border-3 {
   border-color: #011638;
 }
 
-font-family: 'Abril Fatface', cursive;
+/* font-family: 'Abril Fatface', cursive;
 font-family: 'Alfa Slab One', cursive;
 font-family: 'League Gothic', sans-serif;
 font-family: 'Palette Mosaic', cursive;
-font-family: 'Smokum', cursive;
+font-family: 'Smokum', cursive; */
