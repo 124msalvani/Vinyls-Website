@@ -3,10 +3,22 @@
   background-color: rgba(19, 44, 140, 1);
 }
 
+.bg-indie {
+  background: url(../imgs/testbackground.jpeg) no-repeat center center fixed;
+}
+
+.bg-indie2{
+  background: rgb(239,199,194);
+  background: linear-gradient(223deg, rgba(239,199,194,1) 0%, rgba(255,229,212,1) 26%, rgba(191,211,193,1) 51%, rgba(104,166,145,1) 74%, rgba(98,156,215,1) 95%);
+}
+
 .img-fluid{
   padding: 40px;
 }
 
+.verybigtext{
+  font-size: 90px;
+}
 
 .hiphop {
   font-family: 'League Gothic', sans-serif;
@@ -16,6 +28,7 @@
 }
 .indie {
   font-family: 'Smokum', cursive;
+  font-size: 60px;
 }
 .rock {
   font-family: 'Abril Fatface', cursive;
