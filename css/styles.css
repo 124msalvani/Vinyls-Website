@@ -12,6 +12,10 @@
   background: linear-gradient(223deg, rgba(239,199,194,1) 0%, rgba(255,229,212,1) 26%, rgba(191,211,193,1) 51%, rgba(104,166,145,1) 74%, rgba(98,156,215,1) 95%);
 }
 
+.bg-rock2{
+  background: rgb(20,20,20);
+  background: linear-gradient(0deg, rgba(20,20,20,0) 0%, rgba(255,237,194,1) 0%, rgba(167,28,28,1) 100%, rgba(196,198,231,0) 100%);
+}
 .img-fluid{
   padding: 40px;
 }
