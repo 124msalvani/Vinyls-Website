@@ -1,4 +1,29 @@
 
+
+.has-bg-img-rnb{
+    background: url(../imgs/FLOWER.png) repeat center center fixed;
+}
+
+.has-bg-img-funk{
+    background: url(../imgs/funkvinyl2.jpg) repeat center center fixed;
+}
+
+.has-bg-img-clschiphop{
+    background: url(../imgs/alleyezonme.jpg) repeat center center fixed;
+}
+
+.has-bg-img-hiphop{
+    background: url(../imgs/theemshow.jpg) repeat center center fixed;
+}
+
+.has-bg-img-indie{
+    background: url(../imgs/indievinyl6.png) repeat center center fixed;
+}
+
+.has-bg-img-rock{
+    background: url(../imgs/rockvinyl2.jpg) repeat center center fixed;
+}
+
 .bg-bluetime{
   background-color: rgba(19, 44, 140, 1);
 }
@@ -20,6 +45,22 @@
   padding: 40px;
 }
 
+/*--------------------*/
+.new-anchor-tag:link{
+  color: blue;
+}
+
+.new-anchor-tag:visited {
+  color: green;
+}
+.new-anchor-tag:hover {
+  color: purple;
+}
+
+.new-anchor-tag:active {
+  color: white;
+}
+/*----------------------*/
 
 .verybigtext{
   font-size: 90px;
